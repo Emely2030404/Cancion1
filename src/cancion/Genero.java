@@ -3,7 +3,7 @@ package cancion;
 
 public class Genero {
      private String pop; 
-     private date fechaDeLanzamiento;
-     private booleand 
+     private Date fechaDeLanzamiento;
+     private Booleand concierto;
       
 }
